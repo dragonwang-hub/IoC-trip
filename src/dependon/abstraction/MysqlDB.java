@@ -1,4 +1,4 @@
-package dependon;
+package dependon.abstraction;
 
 public class MysqlDB {
     public void save() {
